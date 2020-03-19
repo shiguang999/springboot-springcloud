@@ -1,6 +1,12 @@
 # springboot-springcloud
 搭建springboot+springcloud分布式项目实现增删改查功能
 
+作者：betake
+springboot+springcloud 链接：https://www.jianshu.com/p/63665a2f2414
+springboot+swagger2 链接：https://www.jianshu.com/p/f8bb599cc80c
+来源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
 一、环境
 1、jdk1.8
 
@@ -941,7 +947,3 @@ del success
 
 提取码：4y72
 
-作者：betake
-链接：https://www.jianshu.com/p/63665a2f2414
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
